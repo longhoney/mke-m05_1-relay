@@ -1,5 +1,5 @@
 {
-    "name": "MKE-M05_1-RELAY",
+    "name": "MKE-M05_1-RELAY_microbit",
     "description": "",
     "dependencies": {
         "core": "*",
